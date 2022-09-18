@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 10px 0;
+    list-style: none;
+}
+
+.todo-container {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#input-btn {
+    margin-top: 5px;
+}
+
+.close {
+    padding: 0.01px;
+}
+
+
